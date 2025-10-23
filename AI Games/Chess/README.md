@@ -18,12 +18,12 @@
 - Press SPACE to restart the game
 
 ## Screenshots
-![Game Screenshot](screenshots/chess.png)
+<img width="960" height="960" alt="Real Chess_ Human (Wehrmacht) vs AI (British) 10_3_2025 9_04_09 PM" src="https://github.com/user-attachments/assets/5b3277b4-3cc6-46d7-98cb-09f3974d2da5" />
 
 ## Algorithm Used
 - **Minimax with Alpha-Beta Pruning**
 - Depth-limited search (configurable depth)
 - Piece-value based evaluation function
 - Move ordering and pruning for efficiency
-- Complete chess rules implementation including check, checkmate, and stalemate detection<img width="960" height="960" alt="Real Chess_ Human (Wehrmacht) vs AI (British) 10_3_2025 9_04_09 PM" src="https://github.com/user-attachments/assets/5b3277b4-3cc6-46d7-98cb-09f3974d2da5" />
+- Complete chess rules implementation including check, checkmate, and stalemate detection
 
