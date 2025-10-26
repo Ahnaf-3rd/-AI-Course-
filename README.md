@@ -1,10 +1,4 @@
 # -AI-Course-
-AI project details about algorithms and games
-Of course. Here is the main `README.md` file for your "AI Course" GitHub repository, formatted as requested in the guidelines.
-
----
-
-# AI Course
 
 ## Purpose of this Course
 
