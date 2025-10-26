@@ -20,7 +20,7 @@
 - Press 'R' to restart the game at any time
 
 ## Screenshots
-![Game Screenshot](screenshots/tic_tac_toe.png)<img width="900" height="900" alt="Tic-Tac-Toe — Kriegsmarine vs IJN 10_23_2025 8_58_11 PM" src="https://github.com/user-attachments/assets/f9863049-f86a-494c-9f28-9f51c4caf891" />
+<img width="900" height="900" alt="Tic-Tac-Toe — Kriegsmarine vs IJN 10_23_2025 8_58_11 PM" src="https://github.com/user-attachments/assets/f9863049-f86a-494c-9f28-9f51c4caf891" />
 
 ## Algorithm Used
 - **Minimax with Alpha-Beta Pruning**
