@@ -14,9 +14,9 @@
   - `assets/allies_piece.png`
 
 ## How to Play
-- Click on any column to drop your Axis (red) piece
+- Click on any column to drop your Luftwaffe piece
 - Connect four pieces horizontally, vertically, or diagonally to win
-- The AI (Allies/yellow) will automatically respond
+- The AI (Forces Aériennes Françaises Libres, FAFL) will automatically respond
 - Press 'R' to restart the game
 
 ## Screenshots
