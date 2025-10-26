@@ -36,7 +36,7 @@ Throughout this course, I gained knowledge across a wide spectrum of AI topics, 
 
 ## Duration of this Course
 
-The course was conducted over a single academic semester.
+The course was conducted over a single academic semester from July 2025 to December 2025
 
 ## Supervisor / Course Instructor
 
