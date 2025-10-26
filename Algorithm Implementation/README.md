@@ -21,7 +21,8 @@ This folder contains implementations of fundamental AI search algorithms.
 - Space: O(V)
 
 **Input/Output:**
-![BFS Example](images/bfs_example.png)
+<img width="1920" height="1078" alt="alphabetaai and 2 more pages - Personal - Microsoft​ Edge 10_26_2025 6_11_20 PM" src="https://github.com/user-attachments/assets/6093ae00-ea26-4dff-850e-794018851448" />
+
 
 ---
 
@@ -42,7 +43,8 @@ This folder contains implementations of fundamental AI search algorithms.
 - Space: O(V)
 
 **Input/Output:**
-![DFS Example](images/dfs_example.png)
+<img width="1920" height="1078" alt="alphabetaai and 2 more pages - Personal - Microsoft​ Edge 10_26_2025 6_11_53 PM" src="https://github.com/user-attachments/assets/03a8ffcb-b178-444f-a14f-142caad02dcc" />
+
 
 ---
 
@@ -62,7 +64,8 @@ This folder contains implementations of fundamental AI search algorithms.
 - Space: O(d)
 
 **Input/Output:**
-![IDS Example](images/ids_example.png)
+<img width="1920" height="1078" alt="alphabetaai and 2 more pages - Personal - Microsoft​ Edge 10_26_2025 6_12_25 PM" src="https://github.com/user-attachments/assets/f3711e62-e682-4cef-822e-338ad875f3da" />
+
 
 ---
 
@@ -82,7 +85,8 @@ This folder contains implementations of fundamental AI search algorithms.
 - Space: O(b^(d/2))
 
 **Input/Output:**
-![Bidirectional Example](images/bidirectional_example.png)
+<img width="1920" height="1078" alt="alphabetaai and 2 more pages - Personal - Microsoft​ Edge 10_26_2025 6_11_37 PM" src="https://github.com/user-attachments/assets/b36fa090-a7d9-4a15-8d17-2dd63a545b0c" />
+
 
 ---
 
@@ -102,9 +106,10 @@ This folder contains implementations of fundamental AI search algorithms.
 - Space: O(d)
 
 **Input/Output:**
-![Alpha-Beta Example](images/alphabeta_example.png)
 
----
+
+---<img width="1920" height="1078" alt="alphabetaai and 2 more pages - Personal - Microsoft​ Edge 10_26_2025 6_01_35 PM" src="https://github.com/user-attachments/assets/3f9f0f3c-8b20-4dda-aacc-3a4a73bc940e" />
+
 
 ### 6. Minimax Algorithm
 **How it works:**
@@ -123,7 +128,8 @@ This folder contains implementations of fundamental AI search algorithms.
 - Space: O(bd)
 
 **Input/Output:**
-![Minimax Example](images/minimax_example.png)
+<img width="1920" height="1078" alt="alphabetaai and 2 more pages - Personal - Microsoft​ Edge 10_26_2025 6_12_48 PM" src="https://github.com/user-attachments/assets/41dc30a5-69a4-4c21-a7b4-73a35d51518e" />
+
 
 ---
 
@@ -143,7 +149,8 @@ This folder contains implementations of fundamental AI search algorithms.
 - Space: O(bl)
 
 **Input/Output:**
-![DLS Example](images/dls_example.png)
+<img width="1920" height="1078" alt="alphabetaai and 2 more pages - Personal - Microsoft​ Edge 10_26_2025 6_12_09 PM" src="https://github.com/user-attachments/assets/95722c38-1313-4d99-9186-9a9ca69f9aaf" />
+
 
 ---
 
@@ -163,7 +170,8 @@ This folder contains implementations of fundamental AI search algorithms.
 - Space: O(w)
 
 **Input/Output:**
-![Beam Search Example](images/beam_example.png)
+
+<img width="1920" height="1078" alt="alphabetaai and 2 more pages - Personal - Microsoft​ Edge 10_26_2025 6_10_49 PM" src="https://github.com/user-attachments/assets/27fe5493-3455-4d6c-a741-24b6f524a179" />
 
 ---
 
@@ -183,7 +191,8 @@ This folder contains implementations of fundamental AI search algorithms.
 - Space: O(b^d)
 
 **Input/Output:**
-![Best-First Example](images/bestfirst_example.png)
+
+<img width="1920" height="1078" alt="alphabetaai and 2 more pages - Personal - Microsoft​ Edge 10_26_2025 6_11_20 PM" src="https://github.com/user-attachments/assets/d83cf5c2-d09a-49cf-bba5-c5dc91e30e6e" />
 
 ---
 
@@ -205,6 +214,6 @@ This folder contains implementations of fundamental AI search algorithms.
 - Space: O(b^d)
 
 **Input/Output:**
-![A* Example](images/astar_example.png)
 
-## File Structure
+<img width="1920" height="1078" alt="alphabetaai and 2 more pages - Personal - Microsoft​ Edge 10_26_2025 6_10_24 PM" src="https://github.com/user-attachments/assets/234caff2-5b75-4f0c-ae35-289dd2462959" />
+
